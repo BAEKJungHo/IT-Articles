@@ -27,5 +27,6 @@
 🎯 제목 : Domain System 과 Registry
 🧬 링크 : https://www.youtube.com/watch?v=ao0VtQnBBXA
 📖 요약 : 예를들어 goolge.com 을 치면 해당 도메인에 대한 IP 를 찾기 위해 대빵의 전화번호부(= IP 전화번호부라고 생각하면됨)를 찾고, 대빵이 하위의 전화번호부에게 요청을함(이게 registry)
-.com 과 같은 registry 를 운영하는 것은 미국의 verisign 이라고함 registry 는 사기업에 의해 
+.com 과 같은 registry 를 운영하는 것은 미국의 verisign 이라고함 registry 는 사기업에 의해 운영된다고함. 도메인을 사기위해선 registry 를 찾아가는게 아니고 러셀러들에게 의해서 사는데
+실제로 registry 를 통해 사는 비용보다 조금 더 지불해야한다고 함.
 ```
