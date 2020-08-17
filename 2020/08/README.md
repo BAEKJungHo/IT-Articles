@@ -38,5 +38,17 @@
 📆 날짜 : 2020-08-17. Mon
 🎯 제목 : Singleton Pattern
 🧬 링크 : https://medium.com/webeveloper/%EC%8B%B1%EA%B8%80%ED%84%B4-%ED%8C%A8%ED%84%B4-singleton-pattern-db75ed29c36
-📖 요약 : 디자인 패턴 싱글턴 패턴의 
+📖 요약 : 디자인 패턴 싱글턴 패턴의 종류
 ```
+
+- 2020-08-18. Tue
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-08-18. Tue
+🎯 제목 : Java 8: From PermGen to Metaspace
+🧬 링크 : https://dzone.com/articles/java-8-permgen-metaspace
+📖 요약 : 자바 8 JVM 의 PermGen 영역이 사라지고 Metaspace 영역으로 대체되었다. PermGen 은 Heap 영역에 있었지만, Metaspace 는 native 영역에 존재한다.
+```
+
+
