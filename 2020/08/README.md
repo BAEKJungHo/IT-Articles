@@ -61,7 +61,7 @@
 📖 요약 : 상세나 수정페이지는 대부분 @PathVariable 을 사용하게끔 URL 구성이 되어있는데 (/{number}/view) 만약 int 타입에 String 이 올 경우 에러처리를 어떻게 해줘야 하는지에 대한 아티클이다. 해당 아티클에서는 @ExceptionHandler 를 통한 해결책을 제시하고 있다. 
 ```
 
-- 2020-08-20. Wed
+- 2020-08-20. Thu
 
 ```
 📌 분류 : Java
@@ -69,5 +69,16 @@
 🎯 제목 : 스터디는 개인주의
 🧬 링크 : https://www.whiteship.me/java-playlist-ep1/
 📖 요약 : 스터디는 철저하게 개인주의여야하며, 스터디를 통해 얻을 수 있는 건 발표 실력 향상, 지식 재점검, 자신감 향상 등이 있다.
+```
+
+- 2020-08-21. Fri
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-08-21. Fri
+🎯 제목 : c url 사용 시 jsessionid 가 붙는 이유
+🧬 링크 : https://to-dy.tistory.com/84
+📖 요약 : c url 사용 시 jsessionid 가 붙는 이유. 클라이언트가 서버에 접속하면 서버는 세션 ID 를 발급하는데, 세션 ID 가 쿠키에 저장되어있지 않은 경우에 jsessionid 가 붙어 나온다.
+해결책은 ${pageContext.request.contextPath} 를 사용하면 된다.
 ```
 
