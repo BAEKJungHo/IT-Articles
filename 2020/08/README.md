@@ -82,3 +82,12 @@
 해결책은 ${pageContext.request.contextPath} 를 사용하면 된다.
 ```
 
+- 2020-08-22. Sat
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-08-22. Sat
+🎯 제목 : 자바 Optional 의 ifPresent 사용
+🧬 링크 : https://www.whiteship.me/optional-ifpresent/
+📖 요약 : 자바 Optional 의 ifPresent 사용법에 대해서 설명하는 
+```
