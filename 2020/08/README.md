@@ -89,5 +89,15 @@
 📆 날짜 : 2020-08-22. Sat
 🎯 제목 : 자바 Optional 의 ifPresent 사용
 🧬 링크 : https://www.whiteship.me/optional-ifpresent/
-📖 요약 : 자바 Optional 의 ifPresent 사용법에 대해서 설명하는 
+📖 요약 : 자바 Optional 의 ifPresent 사용법에 대해서 설명하는 아티클
+```
+
+- 2020-08-23. Sun
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-08-23. Sun
+🎯 제목 : 더 나은 개발자로 성장하는 방법 : 에러메시지 읽기
+🧬 링크 : https://www.whiteship.me/read-the-error-message/
+📖 요약 : 더 나은 개발자로 성장하는 방법 : 에러메시지 읽기
 ```
