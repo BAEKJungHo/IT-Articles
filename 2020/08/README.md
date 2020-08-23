@@ -101,3 +101,13 @@
 🧬 링크 : https://www.whiteship.me/read-the-error-message/
 📖 요약 : 더 나은 개발자로 성장하는 방법 : 에러메시지 읽기
 ```
+
+- 2020-08-24. Mon
+
+```
+📌 분류 : IT
+📆 날짜 : 2020-08-24. Mon
+🎯 제목 : "그 연차치곤 잘하네"의 함정
+🧬 링크 : https://jojoldu.tistory.com/68?category=689637
+📖 요약 : "그 연차치곤 잘하네"의 함정
+```
