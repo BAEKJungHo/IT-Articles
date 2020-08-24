@@ -111,3 +111,13 @@
 🧬 링크 : https://jojoldu.tistory.com/68?category=689637
 📖 요약 : "그 연차치곤 잘하네"의 함정
 ```
+
+- 2020-08-25. Tue
+
+```
+📌 분류 : IT
+📆 날짜 : 2020-08-25. Tue
+🎯 제목 : TDD 잘알못을 위한 돌직구 세미나
+🧬 링크 : https://jojoldu.tistory.com/306?category=717426
+📖 요약 : 각 강사들이 TDD 에 대한 생각을 모아둔 아티클
+```
