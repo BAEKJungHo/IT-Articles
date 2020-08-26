@@ -9,3 +9,9 @@
 🧬 링크 : https://github.com/BAEKJungHo/effective_java
 📖 요약 : 자바의 정규식 검증 시, 별 생각 없이 String.mathes 를 사용하곤 했는데, 해당 메서드의 문제점과 더 나은 해결방안 제시
 ```
+
+## BookMark Tech Blog
+
+- [Yun Blog](https://cheese10yun.github.io/)
+- [jojoldu Blog](https://jojoldu.tistory.com/)
+- [whiteship Blog](https://www.whiteship.me/)
