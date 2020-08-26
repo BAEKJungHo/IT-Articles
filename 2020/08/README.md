@@ -131,3 +131,13 @@
 🧬 링크 : https://jojoldu.tistory.com/425?category=717426
 📖 요약 : 우아한객체지향 세미나에 대한 정리를  아티클
 ```
+
+- 2020-08-27. Thu
+
+```
+📌 분류 : IT
+📆 날짜 : 2020-08-27. Thu
+🎯 제목 : 동일한 Bean(Class)에서 @Transactional 동작 방식
+🧬 링크 : https://cheese10yun.github.io/spring-transacion-same-bean/
+📖 요약 : 동일한 Bean(Class)에서 @Transactional 동작 방식
+```
