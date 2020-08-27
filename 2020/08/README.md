@@ -135,9 +135,19 @@
 - 2020-08-27. Thu
 
 ```
-📌 분류 : IT
+📌 분류 : Spring
 📆 날짜 : 2020-08-27. Thu
 🎯 제목 : 동일한 Bean(Class)에서 @Transactional 동작 방식
 🧬 링크 : https://cheese10yun.github.io/spring-transacion-same-bean/
 📖 요약 : 동일한 Bean(Class)에서 @Transactional 동작 방식
+```
+
+- 2020-08-28. Fri
+
+```
+📌 분류 : Spring
+📆 날짜 : 2020-08-28. Fri
+🎯 제목 : 스프링 부트, @RunWith가 더이상 보이지 않는 이유
+🧬 링크 : https://www.whiteship.me/springboot-no-more-runwith/
+📖 요약 : 스프링 부트, @RunWith가 더이상 보이지 않는 이유
 ```
