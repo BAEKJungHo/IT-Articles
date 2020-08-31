@@ -151,3 +151,13 @@
 🧬 링크 : https://www.whiteship.me/springboot-no-more-runwith/
 📖 요약 : 스프링 부트, @RunWith가 더이상 보이지 않는 이유
 ```
+
+- 2020-08-31. Mon
+
+```
+📌 분류 : Spring
+📆 날짜 : 2020-08-31. Mon
+🎯 제목 : 스프링 부트, 포매터 손쉽게 사용하기
+🧬 링크 : https://www.whiteship.me/spring-boot-formatter/
+📖 요약 : 스프링 부트를 사용할 때 포매터를 별다른 웹 MVC 설정 없이도 빈으로 등록만 해도 사용할 수 있다.
+```
