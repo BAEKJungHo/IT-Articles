@@ -38,3 +38,13 @@
 🧬 링크 : https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html
 📖 요약 : 전략패턴에 대한 아티클
 ```
+
+- 2020-09-05. Sat
+
+```
+📌 분류 : IT
+📆 날짜 : 2020-09-05. Sat
+🎯 제목 : 노코드의 시대
+🧬 링크 : https://www.youtube.com/watch?v=2pPK2DjfaJc
+📖 요약 : 중간단계(개발자)없이 간단한 웹 사이트를 개발할 수 있는 노코드 솔루션이 앞으로 대세가 될듯
+```
