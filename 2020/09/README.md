@@ -48,3 +48,13 @@
 🧬 링크 : https://www.youtube.com/watch?v=2pPK2DjfaJc
 📖 요약 : 중간단계(개발자)없이 간단한 웹 사이트를 개발할 수 있는 노코드 솔루션이 앞으로 대세가 될듯
 ```
+
+- 2020-09-06. Sun
+
+```
+📌 분류 : IT
+📆 날짜 : 2020-09-06. Sun
+🎯 제목 : 일급컬렉션이란?
+🧬 링크 : https://github.com/woowacourse/javable/blob/master/_posts/2020-05-08-First-Class-Collection.md
+📖 요약 : 일급컬렉션에 
+```
