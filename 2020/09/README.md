@@ -88,3 +88,37 @@
 🧬 링크 : https://www.whiteship.me/spring-bean-dependency-injection/
 📖 요약 : 컴포넌트 스캔 방식을 이용해서 빈으로 등록시켜서 주입받거나 직접 주입 시켜준다.
 ```
+
+- 2020-09-11. Fri
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-09-11. Fri
+🎯 제목 : 자바 Enum 의 활용
+🧬 링크 : https://jojoldu.tistory.com/122
+📖 요약 : VO 에 스트링 타입으로 선언된 경우 IDE 의 지원을 받을 수 없다(오타검증, 자동완성 등) 반면 상수나, Enum 은 IDE 지원을 받을 수 있다.
+그리고 상수를 만드는 경우 인터페이스로 만들어서 Contract.xxx 이런식으로 사용할 수 있다.
+```
+
+- 코드 일부 발췌
+
+```java
+@RestController
+public class ApiController {
+
+    @GetMapping("/enum")
+    public Map<String, Object> getEnum() {
+        Map<String, Object> enums = new LinkedHashMap<>();
+
+        // 이런식으로 점(.) 두 개를 사용한 이유는 EnumContract 라는 VO 에 선언된 Enum 타입을 통해서 가져오기 위함이다.
+        // 이런식으로 해야 사용할때 더 명확하다. 바로 CommissionType 으로 하는경우 개발자의 경우는 CommissionType 를 사용해야한다는 걸 알지만
+        // 처음 보는 사람들은 CommissionType 를 사용해야하는지 모른다.
+        Class commissionType = EnumContract.CommissionType.class;
+        Class commissionCutting = EnumContract.CommissionCutting.class;
+
+        enums.put("commissionType", commissionType.getEnumConstants());
+        enums.put("commissionCutting", commissionCutting.getEnumConstants());
+        return enums;
+    }
+}
+```
