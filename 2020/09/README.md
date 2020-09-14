@@ -133,3 +133,13 @@ public class ApiController {
 🧬 링크 : https://jojoldu.tistory.com/232?category=635881
 📖 요약 : 메서드를 파라미터로 전달하는 방법
 ```
+
+- 2020-09-15. Tue
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-09-15. Tue
+🎯 제목 : parseInt() 와 intValue() 의 차이
+🧬 링크 : https://vitalholic.tistory.com/72
+📖 요약 : parseInt() 는 String to int, intValue() 는 Integer 에서 int 값을 꺼내 쓰고 
+```
