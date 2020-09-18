@@ -147,9 +147,19 @@ public class ApiController {
 - 2020-09-17. Thu
 
 ```
-📌 분류 : Java
+📌 분류 : Spring
 📆 날짜 : 2020-09-17. Thu
 🎯 제목 : constraintValidator 를 사용한 효과적인 검증 방법
 🧬 링크 : https://www.popit.kr/spring-%ea%b8%b0%eb%b0%98-constraintvalidator%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%b4%ec%84%9c-%ed%9a%a8%ea%b3%bc%ec%a0%81%ec%9d%b8-%ea%b2%80%ec%a6%9d/
 📖 요약 : constraintValidator 를 사용한 효과적인 검증 방법
+```
+
+- 2020-09-18. Fri
+
+```
+📌 분류 : Spring
+📆 날짜 : 2020-09-18. Fri
+🎯 제목 : Service 적절한 크기 가이드
+🧬 링크 : https://www.popit.kr/spring-guide-service-%ec%a0%81%ec%a0%88%ed%95%9c-%ed%81%ac%ea%b8%b0-%ea%b0%80%ec%9d%b4%eb%93%9c/
+📖 요약 : 스프링에서 Service 를 나누는 적절한 크기에 대한 가이드
 ```
