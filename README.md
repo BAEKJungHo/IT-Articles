@@ -15,3 +15,7 @@
 - [Yun Blog](https://cheese10yun.github.io/)
 - [jojoldu Blog](https://jojoldu.tistory.com/)
 - [whiteship Blog](https://www.whiteship.me/)
+
+## Oracle Java Blog
+
+- [Java 8: Lambdas](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part1.html)
