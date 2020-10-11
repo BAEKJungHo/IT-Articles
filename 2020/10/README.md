@@ -26,3 +26,13 @@
 📖 요약 : Spring Boot에서 yyyy-MM 포맷으로 날짜 받고싶을때
 ```
 
+- 2020-10-12. Mon
+
+```
+📌 분류 : Spring
+📆 날짜 : 자바뉴스, null 한정 서바이벌 가이드
+🎯 제목 : SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기
+🧬 링크 : https://www.whiteship.me/java-news-2020-10-09/
+📖 요약 : 자바뉴스, null 한정 서바이벌 가이드
+```
+
