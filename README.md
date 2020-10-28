@@ -19,3 +19,7 @@
 ## Oracle Java Blog
 
 - [Java 8: Lambdas](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part1.html)
+
+## slipp
+
+- [slipp](https://www.slipp.net/questions/449)
