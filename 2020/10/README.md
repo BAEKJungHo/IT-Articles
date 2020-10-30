@@ -45,3 +45,14 @@
 🧬 링크 : https://www.slipp.net/questions/449
 📖 요약 : 함수형 프로그래밍에서의 에러처리
 ```
+
+- 2020-10-30. Fri
+
+```
+📌 분류 : Java
+📆 날짜 : 2020-10-30. Fri
+🎯 제목 : @Transactional repository or service or seviceImpl
+🧬 링크1 : https://stackoverflow.com/questions/1079114/where-does-the-transactional-annotation-belong
+🧬 링크2 : http://javaprogrammingtips4u.blogspot.com/2010/04/how-to-use-transaction-manager-with.html
+📖 요약 : @Transactional 의 적절한 위치
+```
