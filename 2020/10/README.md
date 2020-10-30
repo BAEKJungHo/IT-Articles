@@ -49,7 +49,7 @@
 - 2020-10-30. Fri
 
 ```
-📌 분류 : Java
+📌 분류 : Spring
 📆 날짜 : 2020-10-30. Fri
 🎯 제목 : @Transactional repository or service or seviceImpl
 🧬 링크1 : https://stackoverflow.com/questions/1079114/where-does-the-transactional-annotation-belong
@@ -58,6 +58,7 @@
 🧬 링크4 : https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/transaction.html
 📖 요약 : @Transactional 의 적절한 위치는 세부 구현체에 두는게 맞다.
 ```
+
 > Check out The Spring Docs -- "Tips" for more information.
 >
 > Spring recommends that you only annotate concrete classes (and methods of concrete classes) with the @Transactional annotation, as opposed to annotating interfaces. You certainly can place the @Transactional annotation on an interface (or an interface method), but this works only as you would expect it to if you are using interface-based proxies. The fact that Java annotations are not inherited from interfaces means that if you are using class-based proxies (proxy-target-class="true") or the weaving-based aspect (mode="aspectj"), then the transaction settings are not recognized by the proxying and weaving infrastructure, and the object will not be wrapped in a transactional proxy, which would be decidedly bad.
