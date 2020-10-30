@@ -81,3 +81,5 @@ JdbcTemplate의 update(), queryForInt(), query() 메서드 선언을 잘 살펴�
 ```java
 public int update(final String sql) throws DataAccessException {}
 ```
+
+> 예외를 처리할 때 반드시 지켜야 할 핵심 원칙은 한 가지다. 모든 예외는 적절하게 복구되든지 아니면 작업을 중단시키고 운영자 또는 개발자에게 분명하게 통보돼야 한다.
