@@ -28,3 +28,13 @@
 🧬 링크 : https://woowacourse.github.io/javable/post/2020-05-29-wrap-primitive-type/
 📖 요약 : 원시타입을 포장해야하는 이유
 ```
+
+- 2021-02-05. Fri
+
+```
+📌 분류 : Java
+📆 날짜 : 2021-02-10. Wed
+🎯 제목 : 상태 코드, 뭘 줘야할까?
+🧬 링크 : https://woowacourse.github.io/javable/post/2020-08-31-http-status-code/
+📖 요약 : 상태 코드, 뭘 줘야할까?
+```
