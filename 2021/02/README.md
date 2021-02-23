@@ -48,3 +48,13 @@
 🧬 링크 : https://speakerdeck.com/microsoftware/masokon2018-geulsseugiga-eoryeobgiman-han-gaebaljaege-jeongweonhyi?slide=23
 📖 요약 : 코드도 글쓰기와 비슷하다. 가독성이 좋으며 상대방을 이해시키고 설득 시킬 수 있는 글이 좋은 글이다.
 ```
+
+- 2021-02-23. Tue
+
+```
+📌 분류 : IT
+📆 날짜 : 2021-02-23. Tue
+🎯 제목 : 알고리즘 코딩 테스트 공부 방법
+🧬 링크 : https://ebbnflow.tistory.com/190
+📖 요약 : 알고리즘 코딩 테스트 공부 방법
+```
