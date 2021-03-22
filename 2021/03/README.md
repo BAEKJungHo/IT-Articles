@@ -38,3 +38,13 @@
 🧬 링크 2 : https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 📖 요약 : Gitflow worklfow 란 ?
 ```
+
+- 2021-03-22. Mon
+
+```
+📌 분류 : Git
+📆 날짜 : 2021-03-22. Mon
+🎯 제목 : Git PR(Pull Request) 보내는 방법
+🧬 링크 : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+📖 요약 : Git PR(Pull Request) 보내는 방법
+```
