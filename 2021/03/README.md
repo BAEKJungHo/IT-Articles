@@ -48,3 +48,13 @@
 🧬 링크 : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 📖 요약 : Git PR(Pull Request) 보내는 방법
 ```
+
+- 2021-03-30. Tue
+
+```
+📌 분류 : IT
+📆 날짜 : 2021-03-30. Tue
+🎯 제목 : 재난급 서버 장애내고 개발자 인생 끝날뻔 한 썰 - 납량특집! DB에 테이블이 어디로 갔지?
+🧬 링크 : https://www.youtube.com/watch?v=SWZcrdmmLEU
+📖 요약 : 재난급 서버 장애내고 개발자 인생 끝날뻔 한 썰 - 납량특집! DB에 테이블이 어디로 갔지?
+```
