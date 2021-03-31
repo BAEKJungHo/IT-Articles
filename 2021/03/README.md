@@ -58,3 +58,14 @@
 🧬 링크 : https://www.youtube.com/watch?v=SWZcrdmmLEU
 📖 요약 : 재난급 서버 장애내고 개발자 인생 끝날뻔 한 썰 - 납량특집! DB에 테이블이 어디로 갔지?
 ```
+
+- 2021-03-31. Wed
+
+```
+📌 분류 : IT
+📆 날짜 : 2021-03-31. Wed
+🎯 제목 : 전자정부 오픈소스 깃헙 리포지토리
+🧬 링크 1 : https://github.com/eGovFramework
+🧬 링크 2 : https://okky.kr/article/900374
+📖 요약 : 전자정부 오픈소스 깃헙 리포지토리
+```
