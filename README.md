@@ -23,3 +23,8 @@
 ## slipp
 
 - [slipp](https://www.slipp.net/questions)
+
+## How to Deal With Difficult People on Software Projects
+
+- [How to Deal With Difficult People on Software Projects](https://www.howtodeal.dev/)- 
+- [Okky 번역 글](https://okky.kr/article/891469)
