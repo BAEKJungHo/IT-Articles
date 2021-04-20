@@ -45,6 +45,7 @@
 📆 날짜 : 2021-04-20. Tue
 🎯 제목 : SI 회사에 입사하기 전 읽으면 좋은 글
 🧬 링크 : https://preamtree.tistory.com/133
+🧬 링크 : https://okky.kr/article/499014
 📖 요약 : SI 회사에 입사하기 전 읽으면 좋은 글
 ```
 
