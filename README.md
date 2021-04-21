@@ -12,7 +12,7 @@
 
 ## Community
 
-- [Dev community](https://dev.to/)
+- [Dev Community](https://dev.to/)
 
 ## BookMark Tech Blog
 
