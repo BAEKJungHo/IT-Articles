@@ -28,3 +28,8 @@
 
 - [How to Deal With Difficult People on Software Projects](https://www.howtodeal.dev/)- 
 - [Okky 번역 글](https://okky.kr/article/891469)
+
+## Full Stack RoadMap
+
+- https://dev.to/javinpaul/the-2019-web-development-frontend-backend-roadmap-4le2
+- https://javarevisited.blogspot.com/2019/01/10-web-development-frameworks-fullstack-developer-should-learn.html#axzz6sejETaET
