@@ -15,15 +15,9 @@
 - [Dev Community](https://dev.to/)
 - [Hackernoon](https://hackernoon.com/)
 
-## BookMark Tech Blog
+## Best Paper Awards
 
-- [Yun Blog](https://cheese10yun.github.io/)
-- [jojoldu Blog](https://jojoldu.tistory.com/)
-- [whiteship Blog](https://www.whiteship.me/)
-
-## Oracle Java Blog
-
-- [Java 8: Lambdas](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part1.html)
+- [Best Paper Awards](https://jeffhuang.com/best_paper_awards/)
 
 ## slipp
 
