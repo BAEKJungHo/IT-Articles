@@ -5,3 +5,4 @@
 - [jojoldu Blog](https://jojoldu.tistory.com/)
 - [whiteship Blog](https://www.whiteship.me/)
 - [Java 8: Lambdas](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part1.html)
+- [Yegor256](https://www.yegor256.com/)
