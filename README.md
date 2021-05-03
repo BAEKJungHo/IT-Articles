@@ -13,7 +13,7 @@
 ## Community
 
 - [Dev Community](https://dev.to/)
-- [Devdocs](https://devdocs.io/)
+- [Hackernoon](https://hackernoon.com/)
 
 ## BookMark Tech Blog
 
