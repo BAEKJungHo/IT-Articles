@@ -14,7 +14,7 @@
 
 - [Dev Community](https://dev.to/)
 - [Hackernoon](https://hackernoon.com/)
-- [slipp](https://www.slipp.net/questions)
+- [Slipp](https://www.slipp.net/questions)
 - [Okky](https://okky.kr/)
 
 ## Best Paper Awards
