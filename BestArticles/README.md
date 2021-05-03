@@ -6,6 +6,7 @@
 - [Don't Learn To Code. Learn To Think](https://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/)
 - [How to Deal With Difficult People on Software Projects](https://www.howtodeal.dev/)- 
   - [Okky 번역 글](https://okky.kr/article/891469)
+- [HTTPS 에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
 
 ## Resumake
 
