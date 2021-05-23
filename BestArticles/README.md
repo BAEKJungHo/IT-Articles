@@ -8,6 +8,7 @@
   - [Okky 번역 글](https://okky.kr/article/891469)
 - [HTTPS 에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
 
-## Resumake
+## 이력서 작성
 
 - [Resumake](https://resumake.io/)
+- [Resumeio](https://resume.io/)
