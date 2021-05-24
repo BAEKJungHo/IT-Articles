@@ -55,3 +55,13 @@
 🧬 링크 : https://42place.innovationacademy.kr/archives/6884
 📖 요약 : 기업마다 개발자를 구하는데, 그에 대한 질의 
 ```
+
+- 2021-05-24. Mon
+
+```
+📌 분류 : IT
+📆 날짜 : 2021-05-24. Mon
+🎯 제목 : 개발 과제를 준비하는 팁 10가지
+🧬 링크 : https://medium.com/@gojbpark/%EA%B0%9C%EB%B0%9C-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%ED%8C%81-10%EA%B0%80%EC%A7%80-372d00c3db8
+📖 요약 : 개발 과제를 준비하는 팁 10가지
+```
